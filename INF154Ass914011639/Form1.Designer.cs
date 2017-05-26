@@ -50,11 +50,11 @@
             // 
             // btnMarsSpeak
             // 
-            this.btnMarsSpeak.Location = new System.Drawing.Point(155, 385);
+            this.btnMarsSpeak.Location = new System.Drawing.Point(161, 385);
             this.btnMarsSpeak.Name = "btnMarsSpeak";
-            this.btnMarsSpeak.Size = new System.Drawing.Size(75, 23);
+            this.btnMarsSpeak.Size = new System.Drawing.Size(82, 23);
             this.btnMarsSpeak.TabIndex = 2;
-            this.btnMarsSpeak.Text = "MartianSpeak";
+            this.btnMarsSpeak.Text = "MarsSpeak";
             this.btnMarsSpeak.UseVisualStyleBackColor = true;
             this.btnMarsSpeak.Click += new System.EventHandler(this.btnMarsSpeak_Click);
             // 
