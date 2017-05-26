@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace INF154Ass914011639
 {
-    public partial class Form1 : Form
+    public partial class INF154Ass9 : Form
     {
-        public Form1()
+        public INF154Ass9()
         {
             InitializeComponent();
+        }
+
+        private void btnLoad_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
