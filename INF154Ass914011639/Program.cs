@@ -16,7 +16,7 @@ namespace INF154Ass914011639
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new INF154Ass9());
         }
     }
 }
